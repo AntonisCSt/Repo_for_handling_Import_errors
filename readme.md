@@ -2,6 +2,8 @@
 
 This is a repository for the code that the medium article: [link] contains.
 
+Requirements: Python 3.9+
+
 ## Intro
 
 When our code becomes large or complex, breaking it down into smaller, more manageable parts through modular programming is crucial. This practice enhances organization, reusability, and maintainability. However, Python developers often face challenges like ModuleNotFoundError and ImportError.
